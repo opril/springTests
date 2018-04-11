@@ -11,6 +11,7 @@
 		<h2>
 			${message} ${name}
 		</h2>
+		<a href="/HelloWorld">main</a>
 	</center>
 </body>
 </html>
